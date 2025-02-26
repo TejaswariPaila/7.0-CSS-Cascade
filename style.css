@@ -4,7 +4,7 @@ body{
   background-color:black;
   align-items: center;
   margin: 10%;
-  display: flex;
+  display: inline-block;
   justify-content: center;
 }
 .pic{
