@@ -1,0 +1,48 @@
+/* Don't change the existing CSS. */
+
+body{
+  background-color:black;
+  align-items: center;
+  margin: 10%;
+  display: flex;
+}
+.pic{
+  border-radius: 25px;
+  padding: 5px;
+  width: 40%;
+  margin: auto;
+  display: block;
+
+}
+.first{
+  background-color: #121212;
+  margin: 30% 30% 30% 30%;
+  position: relative;
+  border-radius: 20px;
+  padding: 15px;
+}
+.name{
+  color: whitesmoke;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+.location{
+  color: rgb(104, 139, 32);
+  text-align: center;
+  margin: 10px;
+  font-size: 22px;
+}
+#role{
+  color: rgb(145, 143, 143);
+  text-align: center;
+}
+#same{
+  background-color: rgb(119, 118, 118);
+  margin: 6px;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  border-radius: 7px;
+}
+
