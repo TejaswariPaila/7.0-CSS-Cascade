@@ -5,6 +5,7 @@ body{
   align-items: center;
   margin: 10%;
   display: flex;
+  justify-content: center;
 }
 .pic{
   border-radius: 25px;
@@ -12,7 +13,6 @@ body{
   width: 40%;
   margin: auto;
   display: block;
-
 }
 .first{
   background-color: #121212;
@@ -20,6 +20,7 @@ body{
   position: relative;
   border-radius: 20px;
   padding: 15px;
+  height: auto;
 }
 .name{
   color: whitesmoke;
